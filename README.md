@@ -15,5 +15,8 @@ It is a use case where Materialize acts more as a processing framework than as a
 
 Another point that stands out is: Materialize resource consumption (just 100MB). Ten times less than other processing frameworks like Flink or Spark? (This facts needs to be checked more deeply)
 
+| ⚠️ WARNING: Remember to add your ALCHEMY_KEY to `docker_compose.yml`! |
+| --- |
+
 ## Diagram
 ![Diagram](https://user-images.githubusercontent.com/11491779/159138124-a630fcad-5ce2-489a-904e-27a8b55e87b4.png)
